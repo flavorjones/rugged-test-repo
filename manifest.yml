@@ -1,0 +1,5 @@
+---
+applications:
+- name: rugged-test
+  buildpack: https://github.com/ddollar/heroku-buildpack-multi.git
+  stack: cflinuxfs2
